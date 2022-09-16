@@ -127,11 +127,3 @@ def _rotr(num: int, shift: int, size: int = 32):
 
 
 print("Hash for Umang ==> " + generateHash("Umang").hex())
-
-
-
-
-
-
-
-
